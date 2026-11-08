@@ -5,13 +5,13 @@
     "text.autoconfig.effectual.option.bubbleBreath.@Tooltip": "酸素が残っている間、水中で呼吸すると泡が出ます。",
 
     "text.autoconfig.effectual.option.bubbleChests": "チェストの泡",
-    "text.autoconfig.effectual.option.bubbleChests.@Tooltip": "水中で開いているチェストから、ときどき泡が立ち上ります。",
+    "text.autoconfig.effectual.option.bubbleChests.@Tooltip": "水中で開いているチェストからときどき泡が立ち上ります。",
 
     "text.autoconfig.effectual.option.caveDust": "洞窟の塵",
     "text.autoconfig.effectual.option.caveDust.@Tooltip": "洞窟内に塵のパーティクルが現れます。",
 
     "text.autoconfig.effectual.option.caveDustFrequency": "洞窟の塵の頻度",
-    "text.autoconfig.effectual.option.caveDustFrequency.@Tooltip": "洞窟内で塵が現れる頻度です(値が大きいほど多くなります)。",
+    "text.autoconfig.effectual.option.caveDustFrequency.@Tooltip": "洞窟内で塵が現れる頻度。(値が大きいほど多くなります。)",
 
     "text.autoconfig.effectual.option.fireImprovements": "炎の改善",
     "text.autoconfig.effectual.option.fireImprovements.@Tooltip": "炎と魂の炎から新しい火花のパーティクルが出ます。",
@@ -29,19 +29,19 @@
     "text.autoconfig.effectual.option.furnaceSparks.@Tooltip": "点火中のかまどと溶鉱炉から小さな火花が出ます。",
 
     "text.autoconfig.effectual.option.cauldronFillEffect": "大釜の注水パーティクル",
-    "text.autoconfig.effectual.option.cauldronFillEffect.@Tooltip": "大釜に水、溶岩、または粉雪を入れたときに、水しぶきや煙のパーティクルが出ます。",
+    "text.autoconfig.effectual.option.cauldronFillEffect.@Tooltip": "大釜に水、溶岩、または粉雪を入れたときに水しぶきや煙のパーティクルが出ます。",
 
     "text.autoconfig.effectual.option.mouthSteam": "息の白さ",
-    "text.autoconfig.effectual.option.mouthSteam.@Tooltip": "寒冷バイオームで、息が白く見えるようになります。",
+    "text.autoconfig.effectual.option.mouthSteam.@Tooltip": "寒冷バイオームで息が白く見えるようになります。",
 
     "text.autoconfig.effectual.option.dynamicBreathSpeed": "息の速さの変化",
-    "text.autoconfig.effectual.option.dynamicBreathSpeed.@Tooltip": "有効にすると、寒冷バイオームでダッシュやジャンプ中に呼吸が速くなります。",
+    "text.autoconfig.effectual.option.dynamicBreathSpeed.@Tooltip": "寒冷バイオームでダッシュやジャンプ中に呼吸が速くなります。",
 
     "text.autoconfig.effectual.option.runDust": "走行時の砂ぼこり",
-    "text.autoconfig.effectual.option.runDust.@Tooltip": "砂や雪の上を走ると、追加の砂ぼこりのパーティクルが出ます。",
+    "text.autoconfig.effectual.option.runDust.@Tooltip": "砂や雪の上を走ると追加の砂ぼこりのパーティクルが出ます。",
 
     "text.autoconfig.effectual.option.fireEntitySparks": "燃えているエンティティの火花",
-    "text.autoconfig.effectual.option.fireEntitySparks.@Tooltip": "エンティティが燃えているとき、火花が飛び散ります。",
+    "text.autoconfig.effectual.option.fireEntitySparks.@Tooltip": "エンティティが燃えているときに火花が飛び散ります。",
 
     "text.autoconfig.effectual.option.minecartSparks": "トロッコの火花",
     "text.autoconfig.effectual.option.minecartSparks.@Tooltip": "トロッコが高速で走行すると火花が出ます。",
@@ -50,31 +50,31 @@
     "text.autoconfig.effectual.option.steamEffect.@Tooltip": "水が高温のブロック(溶岩や溶岩入りの大釜など)に触れると、蒸気が噴き出します。",
 
     "text.autoconfig.effectual.option.waterDrip": "水滴",
-    "text.autoconfig.effectual.option.waterDrip.@Tooltip": "プレイヤーが水から上がったとき、体から水滴が落ちます。",
+    "text.autoconfig.effectual.option.waterDrip.@Tooltip": "プレイヤーが水から上がったとき体から水滴が落ちます。",
 
     "text.autoconfig.effectual.option.blockPlaceEffect": "ブロック設置パーティクル",
-    "text.autoconfig.effectual.option.blockPlaceEffect.@Tooltip": "雪、砂、砂利を設置したとき、設置したブロックに合ったパーティクルが出ます。",
+    "text.autoconfig.effectual.option.blockPlaceEffect.@Tooltip": "雪、砂、砂利を設置したときに設置したブロックに対応するパーティクルが出ます。",
 
     "text.autoconfig.effectual.option.stripEffect": "樹皮剥ぎパーティクル",
     "text.autoconfig.effectual.option.stripEffect.@Tooltip": "斧で原木の樹皮を剥ぐときにパーティクルが出ます。",
 
     "text.autoconfig.effectual.option.bubblePots": "飾り壺の泡",
-    "text.autoconfig.effectual.option.bubblePots.@Tooltip": "飾り壺が水中にある場合、ときどき泡が出ます。",
+    "text.autoconfig.effectual.option.bubblePots.@Tooltip": "飾り壺が水中にある場合に、ときどき泡が出ます。",
 
     "text.autoconfig.effectual.option.metalHitSparks": "金属を叩いたときの火花",
-    "text.autoconfig.effectual.option.metalHitSparks.@Tooltip": "金属製の武器やツールで金属ブロックを叩くと、火花が出ます。",
+    "text.autoconfig.effectual.option.metalHitSparks.@Tooltip": "金属製の武器やツールで金属ブロックを叩くと火花が出ます。",
 
     "text.autoconfig.effectual.option.snowFootprints": "雪の足跡",
     "text.autoconfig.effectual.option.snowFootprints.@Tooltip": "雪の上を歩くと足跡が残ります。",
 
     "text.autoconfig.effectual.option.snowResidue": "雪の残り",
-    "text.autoconfig.effectual.option.snowResidue.@Tooltip": "雪の上から降りたあと、地面に小さな雪の塊が残ります。",
+    "text.autoconfig.effectual.option.snowResidue.@Tooltip": "雪の上から降りた後に地面に小さな雪の塊が残ります。",
 
     "text.autoconfig.effectual.option.airTrail": "エリトラの飛行機雲",
-    "text.autoconfig.effectual.option.airTrail.@Tooltip": "エリトラで滑空中に、ほのかな軌跡を残します。",
+    "text.autoconfig.effectual.option.airTrail.@Tooltip": "エリトラで滑空中にほのかな軌跡を残します。",
 
     "text.autoconfig.effectual.option.witherDecay": "ウィザーの腐敗",
-    "text.autoconfig.effectual.option.witherDecay.@Tooltip": "衰弱効果の間、黒い煙が出ます。(自分自身にのみ表示。)",
+    "text.autoconfig.effectual.option.witherDecay.@Tooltip": "衰弱効果の間黒い煙が出ます。(自分自身にのみ表示。)",
 
     "modmenu.descriptionTranslation.effectual": "環境的視覚効果と装飾的パーティクル"
 }
